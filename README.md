@@ -22,10 +22,10 @@ p : pause/resume
 
 Screenshots ! 
 
-![Gameplay Scrennshot1](Images/screenshot1.jpg)
-![Gameplay Scrennshot2](Images/screenshot2.jpg)
-![stats Scrennshot](Images/screenshot3.jpg)
-![Lost Scrennshot](Images/screenshot4.jpg)
+![Gameplay Scrennshot1](Images/screenshot1.png)
+![Gameplay Scrennshot2](Images/screenshot2.png)
+![stats Scrennshot](Images/screenshot3.png)
+![Lost Scrennshot](Images/screenshot4.png)
 
 ---------------------------------------------------------------------------------
 
