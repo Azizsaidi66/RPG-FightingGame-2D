@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "AAF - RPG.sln"
+    "dotnet.defaultSolution": "RPG-FightingGame-2D.sln"
 }
